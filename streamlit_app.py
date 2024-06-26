@@ -151,7 +151,7 @@ def run():
         col3.metric("李可今天", "27岁啦！", "茁壮成长中")
 
         st.map(map_data)
-        st.write(""" <h1 style='text-align: center; font-size: 25px;'> 2024年6月15日，我好想你。""", unsafe_allow_html=True) 
+        st.write(""" <h1 style='text-align: center; font-size: 25px;'> 2024年6月27日，我好想你。""", unsafe_allow_html=True) 
 
     if la == '北京':
         st.write(
